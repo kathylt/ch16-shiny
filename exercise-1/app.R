@@ -32,7 +32,6 @@ ui <- fluidPage(
 # At this point, don't do anything in the function
 # This function should perform the following:
 server <- function(input, output) {
-  
 }
 
 
